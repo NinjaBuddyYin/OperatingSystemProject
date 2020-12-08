@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Battery Manager</string>
+    <string name="battery_level">Battery Level</string>
+    <string name="hours_remaining">Hours Remaining</string>
+    <string name="tips_label">Battery Saving Tip</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="run_app_name">Running App</string>
+    <string name="loading">Loading...</string>
+    <string name="time">2h0m</string>
+    <string name="first_intro">Battery Manager</string>
+    <string name="background_apps">Background Apps</string>
+    <string name="first_tip">Battery Tips</string>
+    <string name="stop_instruction">Click the button below to view apps running in background</string>
+    <string name="press_hold">Press and hold on any of the Apps to stop the selected App from running in background</string>
+    <string-array name="tips">
+        <item>Take Control of Your Location:The most drastic way to improve your phones battery life is to shut off the GPS function entirely</item>
+        <item>Switch to the Dark Side:If your phone sports an OLED screen, switching to a dark theme helps to preserve the battery</item>
+        <item>Turn Off Automatic Wi-Fi:Android comes with a feature that continues to look for open Wi-Fi networks even when you have disabled Wi-Fi. To turn it off, open Settings > Network and  internet > Wi-Fi. Under Wi-Fi preferences, uncheck the Turn on Wi-Fi automatically option</item>
+        <item>Limit Apps Running in the Background:Most apps you use are active even after you exit them. That is where this battery saver app comes in handy .Click on background apps above and close background applications</item>
+        <item>Rethink Wallpaper and Widgets:Stay away from moving wallpaper, because it takes energy for your display to animate it</item>
+        <item>Avoid draining your phone battery all the way to 0% or charging it all the way to 100%</item>
+        <item>Turn down the screen brightness.</item>
+        <item>Reduce the screen timeout (auto-lock)</item>
+    </string-array>
+
+    <string-array name="heavy_apps">
+        <item>com.whatsapp</item>
+        <item>com.facebook.katana</item>
+        <item>com.instagram.android</item>
+        <item>com.android.chrome</item>
+        <item>com.google.android.googlequicksearchbox</item>
+        <item>com.google.android.gms</item>
+        <item>com.google.android.youtube</item>
+        <item>com.facebook.services</item>
+        <item>com.netflix.mediaclient</item>
+    </string-array>
+
+</resources>
